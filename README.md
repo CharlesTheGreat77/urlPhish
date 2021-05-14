@@ -50,7 +50,7 @@ $ python3 urlPhish.py -u <phishing_url> -m https://google.com -w account-login
 <a href="https://github.com/CharlesTheGreat77">
   <img src="https://github-readme-stats.vercel.app/api?username=CharlesTheGreat77&show_icons=true&hide=commits" />
 </a>
-<a href="https://github.com/natee/website">
+<a href="https://github.com/CharlesTheGreat77">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesTheGreat77&layout=compact" />
 </a>
 
