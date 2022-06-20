@@ -59,5 +59,5 @@ $ python3 urlPhish.py -u <phishing_url> -m https://google.com -w account-login
 </p>
 
 ---
-⭐️ From [Gabe](https://github.com/CharlesTheGreat77)
+⭐️ From [Charles](https://github.com/CharlesTheGreat77)
 
