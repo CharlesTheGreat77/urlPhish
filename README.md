@@ -11,6 +11,9 @@ Mask Phishing Urls
 * this tool is inspired by MaskPhish simply written in Python
    - https://github.com/jaykali
 
+# DISCLAIMER 
+This project must not be used for illegal purposes, and is strictly for educational purposes and for people to experiment with. The user takes full responsibility for their own actions.
+
 # Prerequisite
 ```
 $ pip3 install -r requirements.txt
