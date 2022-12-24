@@ -31,11 +31,7 @@ optional arguments:
                         and exit
   -u URL, --url URL     specify phishing url
   -m MASK, --mask MASK  specify domain name to
-                        mask [https/http]
-  -w WORDS, --words WORDS
-                        specify words for
-                        social engineering ['-'
-                        between words]
+                        mask [https/http] example: https://example.com
 
 ```
 
