@@ -2,7 +2,6 @@ import requests
 import argparse
 
 def maskUrl(url, spoof):
-
 	phisher = f"https%5c{spoof}@{url}"
 	return phisher
 
