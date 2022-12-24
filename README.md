@@ -37,7 +37,7 @@ optional arguments:
 
 * Example
 ```
-$ python3 urlPhish.py -u <phishing_url> -m https://google.com -w account-login
+$ python3 urlPhish.py -u <phishing_url> -m https://google.com
 ```
 
 ### 💬 Contact Me 
